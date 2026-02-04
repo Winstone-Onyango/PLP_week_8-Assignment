@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # Load the cleaned data
 df = pd.read_csv('cleaned_data.csv')
 
-# Streamlit layout
+# Streamlit layout 
 st.title("CORD-19 Data Explorer")
 st.write("Explore COVID-19 research papers")
 
